@@ -1,0 +1,32 @@
+/********************TAG SELECTORS**********************/
+
+h1 {
+  color: crimson;
+}
+
+p {
+  color: darkred;
+  font-size: 20px;
+}
+
+img {}
+
+/********************CLASS SELECTORS**********************/
+
+.mutton {
+  background-color: red;
+}
+
+.brocoli {
+  background-color: green;
+}
+
+.circular {
+  border-radius: 200px;
+}
+
+/********************ID (unique) SELECTORS**********************/
+
+#heading {
+  color: blue;
+}
